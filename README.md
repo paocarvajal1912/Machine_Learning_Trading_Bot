@@ -1,2 +1,9 @@
 # Machine_Learning_Trading_Bot
-Apply machine learning SVM and AdaBoost algorithms to an algorithmic trading strategy.
+Apply machine learning Support Vector Machine and AdaBoost models to an algorithmic trading strategy.
+
+
+# Coclusions first model
+
+
+
+# Comparison two models
