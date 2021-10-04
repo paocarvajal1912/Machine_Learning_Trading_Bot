@@ -72,7 +72,7 @@ There is not a significant impact in terms of accuracy when selecting different 
 
 <img src="images/results_window_tunned_Accuracy.png" width="600" />
 
-There is an impact on the performance, though. I would not select the training window size just based on performance, but since the accuracy does not change much, I would select window=20 since at that size we get the maximum ROI of 88%, and the same accuracy than other window sizes.
+There is an impact on the performance, though. I would not select the training window size just based on performance, but since the accuracy does not change much, I would select a split window of 20 months since at that size we get the maximum ROI of 88%, and the same accuracy than other window sizes.
 
 <img src="images/results_window_tunned_ROI.png" width="600" />
 
